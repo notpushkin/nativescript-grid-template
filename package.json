@@ -1,0 +1,16 @@
+{
+  "name": "nativescript-grid-template",
+  "version": "1.0.1",
+  "author": "Alexander Pushkov <alexander@notpushk.in>",
+  "license": "ISC",
+  "keywords": [
+    "nativescript",
+    "css-grid",
+    "grid"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/notpushkin/nativescript-grid-template.git"
+  },
+  "homepage": "https://gitlab.com/notpushkin/nativescript-grid-template"
+}
